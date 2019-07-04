@@ -1,5 +1,9 @@
 ## Curso Git desde cero
 
+##Zonas de Git
+1.-Directorio de trabajo
+2.-Area de Preparacion
+3.-Directorio Git
 
 ###Flujo de trabajo basico en Git
 1.-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore labore 2.-quam illum. Accusantium necessitatibus, reprehenderit ab natus dolor 3.-maxime, libero dolores fugiat ducimus officia doloribus iusto doloremque laudantium consectetur voluptatem.
