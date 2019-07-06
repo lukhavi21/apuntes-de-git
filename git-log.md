@@ -2,7 +2,7 @@
 Muestra todo el historial de commits del proyecto.
 
 `git log --oneline`
-Muestra el historial en una sola linea
+Muestra el historial en una sola linea.
 
 `git log --graph`
 Muestra el historial graficamente 
