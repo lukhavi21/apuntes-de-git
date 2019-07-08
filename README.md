@@ -8,9 +8,17 @@ mantenimiento eficiente y confiable de archivos.
 3.-Directorio Git
 
 ###Flujo de trabajo basico en Git
-1.-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore labore 2.-quam illum. Accusantium necessitatibus, reprehenderit ab natus dolor 3.-maxime, libero dolores fugiat ducimus officia doloribus iusto doloremque laudantium consectetur voluptatem.
+1. Modificas una serie de archivos en tu directorio de trabajo.
+2. Preparas los archivos, añadiendolos a tu area de preparacion.
+3. Confirmas los cambios, lo que toma los archivos tal y como estan  en el area de preparacion y almacena esa copa instantanea  de manera  permanente en tu directorio de Git.
 
 ###Configurando Git por primera vez
+```
+git config --global user.name "Lukhavi"
+git config --global user.email lukhavi@example.com
+git config --global core.editor “‘C:\Program Files\Sublime Text 3\subl.exe’ --wait”
+ git config --local core.editor “‘C:\Program Files\Sublime Text 3\subl.exe’ --wait”
+ git config --list 
+```
 
-a.-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi 
-b.- facilis est doloribus ab sequi accusantium quidem illo, omnis qui mollitia aspernatur dolore illum et quisquam repellendus quia ipsa, aliquam! Voluptate!...
+ Esta linea fue creada en la rama master.
