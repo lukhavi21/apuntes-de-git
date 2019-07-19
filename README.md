@@ -3,9 +3,9 @@ Sistema de control de versionnes para el
 mantenimiento eficiente y confiable de archivos.
 
 ## Zonas de Git
-1.-Directorio de trabajo
-2.-Area de Preparacion
-3.-Directorio Git
+1. Directorio de trabajo
+2. Area de Preparacion
+3. Directorio Git
 
 ## Flujo de trabajo basico en Git
 1. Modificas una serie de archivos en tu directorio de trabajo.
@@ -21,5 +21,5 @@ git config --local core.editor “‘C:\Program Files\Sublime Text 3\subl.exe’
 git config --list 
 ```
 
- Esta linea fue creada en la rama master.
-
+## Aportes desde otra cuenta
+Este texto fue aportado desde la cuenta esenio21
