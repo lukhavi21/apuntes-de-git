@@ -1,4 +1,4 @@
-###git log
+# git log
 Muestra todo el historial de commits del proyecto.
 
 `git log --oneline`
@@ -14,7 +14,7 @@ Muestra el historial de commits en una linea graficamente.(Interesante)
 
 Muestra el historial con el formato que indicamos.
 
-###Limitar la salida del historial 
+## Limitar la salida del historial 
 `git log -n`: cambiamos  la n porq cualquier numero entero, por ejemplo: `git log -3` nos mostrara los 3 commits mas recientes.
 
 `git log --after="2019-07-05 00:00:00"` : Muestra los commits despues de la fecha especificada.

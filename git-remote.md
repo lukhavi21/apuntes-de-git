@@ -1,4 +1,4 @@
-## git remote add origin https://github.com/lukhavi21/apuntes-de-git.git
+# git remote add origin https://github.com/lukhavi21/apuntes-de-git.git
 Con este comando vinculamos nuestro repositorio local con Github.
 
 ## Pasos para aportar a otro repositorio
