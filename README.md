@@ -21,4 +21,3 @@ git config --local core.editor “‘C:\Program Files\Sublime Text 3\subl.exe’
 git config --list 
 ```
 
-Esta linea se agrego desde un equipo windows conectado al repositorio local con GitHub a traves de HTTPS.
