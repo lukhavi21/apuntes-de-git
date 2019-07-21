@@ -20,7 +20,3 @@ git config --global core.editor “‘C:\Program Files\Sublime Text 3\subl.exe�
 git config --local core.editor “‘C:\Program Files\Sublime Text 3\subl.exe’ --wait”
 git config --list 
 ```
-
-## Aportes desde otra cuenta
-Este texto fue aportado desde la cuenta esenio21
-
